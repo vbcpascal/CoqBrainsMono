@@ -5,6 +5,9 @@
 ## Coq
 
 Version: 0.1
+
 Ligatures: `/\`, `\/`
+
+Preview:
 
 ![](Assets/Coq/CoqFont.png)
