@@ -4,7 +4,7 @@ FullName: CoqBrains Mono Light
 FamilyName: CoqBrains Mono
 Weight: Light
 Copyright: Copyright 2020 \nCodeBrains Mono for Coq\nAuthor https:github.comvbcpascalCodeBrainsMono\nBased on\nThe JetBrains Mono Project\nAuthors https:github.comJetBrainsJetBrainsMono
-Version: 0.1
+Version: 0.2
 ItalicAngle: 0
 UnderlinePosition: -180
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1611741801
-ModificationTime: 1617099611
+ModificationTime: 1618688129
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -57,6 +57,7 @@ OS2XHeight: 550
 OS2Vendor: 'JB  '
 OS2CodePages: 2000019f.dfd70000
 OS2UnicodeRanges: a00002ff.1000f8eb.00000008.00000000
+Lookup: 4 0 0 "Coq" { "Coq"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 1 "backslash_slash" { "backslash_slash"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 0 "slash_backslash" { "slash_backslash"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -6062,7 +6063,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Latin lookup 2 contextual 0
   FCoverage: 10 underscore
  0
 EndFPST
-LangName: 1033 "Copyright 2020 vbcpascal" "CoqBrains Mono Light" "Regular" "" "" "Version 0.1" "" "CoqBrains Mono is a font for coq based on Jetbrains Mono" "JetBrains" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "CoqBrains Mono" "Light"
+LangName: 1033 "Copyright 2020 vbcpascal" "CoqBrains Mono Light" "Regular" "" "" "Version 0.2" "" "CoqBrains Mono is a font for coq based on Jetbrains Mono" "JetBrains" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "CoqBrains Mono" "Light"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -6081,7 +6082,7 @@ StemSnapH 7 [82 60]
 StemSnapV 7 [90 60]
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 0 subtable"
-BeginChars: 65740 1215
+BeginChars: 65745 1220
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -38830,22 +38831,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--1067 35 m 1
- -1067 625 l 1
- -988 625 l 1
- -988 366 l 1
- 402 366 l 1
- 396 374 390 381 382 390 c 2
- 194 625 l 1
- 288 625 l 1
- 522 330 l 1
- 287 35 l 1
- 194 35 l 1
- 386 274 l 2
- 392 281 398 288 403 294 c 1
- -988 294 l 1
- -988 35 l 1
- -1067 35 l 1
+-1067 35 m 5
+ -1067 625 l 5
+ -988 625 l 5
+ -988 366 l 5
+ 402 366 l 5
+ 396 374 390 381 382 390 c 6
+ 194 625 l 5
+ 288 625 l 5
+ 522 330 l 5
+ 287 35 l 5
+ 194 35 l 5
+ 386 274 l 6
+ 392 281 398 288 403 294 c 5
+ -988 294 l 5
+ -988 35 l 5
+ -1067 35 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -39480,23 +39481,23 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-194 35 m 1
- 308 177 l 1
- -512 177 l 1
- -512 247 l 1
- 365 247 l 1
- 386 274 l 2
- 411 305 429 323 436 329 c 1
- 429 335 410 356 382 390 c 2
- 364 413 l 1
- -512 413 l 1
- -512 484 l 1
- 308 484 l 1
- 194 625 l 1
- 288 625 l 1
- 522 330 l 1
- 287 35 l 1
- 194 35 l 1
+194 35 m 5
+ 308 177 l 5
+ -512 177 l 5
+ -512 247 l 5
+ 365 247 l 5
+ 386 274 l 6
+ 411 305 429 323 436 329 c 5
+ 429 335 410 356 382 390 c 6
+ 364 413 l 5
+ -512 413 l 5
+ -512 484 l 5
+ 308 484 l 5
+ 194 625 l 5
+ 288 625 l 5
+ 522 330 l 5
+ 287 35 l 5
+ 194 35 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -43908,8 +43909,8 @@ SplineSet
  600 719.1015625 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "Coq" slash backslash
 LCarets2: 1 600
-Ligature2: "slash_backslash" slash backslash
 EndChar
 
 StartChar: backslash_slash
@@ -43929,8 +43930,207 @@ SplineSet
  600 0.8984375 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "Coq" backslash slash
 LCarets2: 1 600
-Ligature2: "backslash_slash" backslash slash
+EndChar
+
+StartChar: exclam_hyphen_greater
+Encoding: 65740 -1 1215
+Width: 1800
+HStem: 34 117<369.763 486.037> 294 72<209 1599>
+VStem: 130 79<35 294 366 625> 358 140<46.147 139.237>
+LayerCount: 2
+Fore
+SplineSet
+416 34 m 2
+ 382 34 358 58 358 93 c 0
+ 358 127 382 151 416 151 c 2
+ 440 151 l 2
+ 476 151 498 127 498 93 c 0
+ 498 59 474 34 440 34 c 2
+ 416 34 l 2
+130 35 m 1
+ 130 625 l 1
+ 209 625 l 1
+ 209 366 l 1
+ 1599 366 l 1
+ 1593 374 1587 381 1579 390 c 2
+ 1391 625 l 1
+ 1485 625 l 1
+ 1719 330 l 1
+ 1484 35 l 1
+ 1391 35 l 1
+ 1583 274 l 2
+ 1589 281 1595 288 1600 294 c 1
+ 209 294 l 1
+ 209 35 l 1
+ 130 35 l 1
+EndSplineSet
+Validated: 1
+LCarets2: 2 600 1200
+Ligature2: "Coq" exclam hyphen greater
+EndChar
+
+StartChar: equal_bracketleft
+Encoding: 65741 -1 1216
+Width: 1200
+HStem: -110 71<888 1049> 177 70<88 809> 413 71<88 809> 759 71<888 1049>
+VStem: 809 240<-110 -39 759 830> 809 79<-39 177 247 413 484 759>
+LayerCount: 2
+Fore
+SplineSet
+88 177 m 1xf4
+ 88 247 l 1
+ 809 247 l 5
+ 809 413 l 5
+ 88 413 l 1
+ 88 484 l 1
+ 809 484 l 5xf4
+ 809 830 l 5
+ 1049 830 l 1
+ 1049 759 l 1xf8
+ 888 759 l 5
+ 888 -39 l 5xf4
+ 1049 -39 l 1
+ 1049 -110 l 1
+ 809 -110 l 5xf8
+ 809 177 l 5
+ 88 177 l 1xf4
+EndSplineSet
+Validated: 1
+LCarets2: 2 0 600
+Ligature2: "Coq" equal bracketleft 
+EndChar
+
+StartChar: bracketright_equal_greater
+Encoding: 65742 -1 1217
+Width: 1800
+HStem: -110 71<151 312> 177 70<391 1506> 413 71<391 1506> 759 71<151 312>
+VStem: 151 240<-110 -39 759 830> 312 79<-39 177 247 413 484 759>
+LayerCount: 2
+Fore
+SplineSet
+1392 35 m 1xf4
+ 1506 177 l 1
+ 391 177 l 5xf4
+ 391 -110 l 5
+ 151 -110 l 1
+ 151 -39 l 1xf8
+ 312 -39 l 5
+ 312 759 l 5xf4
+ 151 759 l 1
+ 151 830 l 1
+ 391 830 l 5xf8
+ 391 484 l 5
+ 1506 484 l 1
+ 1392 625 l 1
+ 1486 625 l 1
+ 1720 330 l 1
+ 1485 35 l 1
+ 1392 35 l 1xf4
+391 247 m 5
+ 1563 247 l 1
+ 1584 274 l 2
+ 1609 305 1627 323 1634 329 c 1
+ 1627 335 1608 356 1580 390 c 2
+ 1562 413 l 1
+ 391 413 l 5
+ 391 247 l 5
+EndSplineSet
+Validated: 1
+LCarets2: 2 600 1200
+Ligature2: "Coq" bracketright equal greater
+EndChar
+
+StartChar: less_braceleft
+Encoding: 65743 -1 1218
+Width: 1200
+HStem: -110 71<818.896 934> 324 71<560 704.334> 759 71<818.896 934>
+LayerCount: 2
+Fore
+SplineSet
+559 132 m 5
+ 212 307 l 5
+ 212 393 l 5
+ 560 570 l 5
+ 560 492 l 5
+ 335 381 l 6
+ 309.046565352 367.965608377 282 356 269 352 c 5
+ 283 347 309.771742051 335.445940588 335 323 c 6
+ 559 212 l 5
+ 559 132 l 5
+886 -110 m 6
+ 774 -110 704 -51 711 52 c 6
+ 722 225 l 6
+ 726 296 708 324 622 324 c 6
+ 560 324 l 5
+ 560 395 l 5
+ 622 395 l 6
+ 708 395 727 423 722 495 c 6
+ 711 668 l 6
+ 704 771 774 830 886 830 c 6
+ 934 830 l 5
+ 934 759 l 5
+ 886 759 l 6
+ 824 759 786 727 790 668 c 6
+ 801 495 l 6
+ 806 422 770 372 708 360 c 5
+ 769 348 806 297 801 225 c 6
+ 790 52 l 6
+ 786 -7 824 -39 886 -39 c 6
+ 934 -39 l 5
+ 934 -110 l 5
+ 886 -110 l 6
+EndSplineSet
+Validated: 524321
+LCarets2: 1 600
+Ligature2: "Coq" less braceleft
+EndChar
+
+StartChar: braceright_greater
+Encoding: 65744 -1 1219
+Width: 1200
+Flags: W
+HStem: -110 71<318 385.104> 324 71<499.666 582> 759 71<318 385.104>
+LayerCount: 2
+Fore
+SplineSet
+645 132 m 1
+ 992 307 l 1
+ 992 393 l 1
+ 644 570 l 1
+ 644 492 l 1
+ 869 381 l 2
+ 894.953125 367.965820312 922 356 935 352 c 1
+ 921 347 894.228515625 335.446289062 869 323 c 2
+ 645 212 l 1
+ 645 132 l 1
+318 -110 m 2
+ 430 -110 500 -51 493 52 c 2
+ 482 225 l 2
+ 478 296 496 324 582 324 c 2
+ 644 324 l 1
+ 644 395 l 1
+ 582 395 l 2
+ 496 395 477 423 482 495 c 2
+ 493 668 l 2
+ 500 771 430 830 318 830 c 2
+ 270 830 l 1
+ 270 759 l 1
+ 318 759 l 2
+ 380 759 418 727 414 668 c 2
+ 403 495 l 2
+ 398 422 434 372 496 360 c 1
+ 435 348 398 297 403 225 c 2
+ 414 52 l 2
+ 418 -7 380 -39 318 -39 c 2
+ 270 -39 l 1
+ 270 -110 l 1
+ 318 -110 l 2
+EndSplineSet
+Validated: 524329
+LCarets2: 1 600
+Ligature2: "Coq" braceright greater
 EndChar
 EndChars
 EndSplineFont
